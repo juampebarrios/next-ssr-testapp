@@ -1,0 +1,33 @@
+$xl-max-width: 2520px;
+
+.container {
+  padding-left: 4px;
+  padding-right: 4px;
+  display: flex;
+  width: 100%;
+
+  &.row {
+    flex-direction: row;
+    justify-content: space-between;
+  }
+
+  @media (min-width: 640px) {
+    padding-left: 2px;
+    padding-right: 2px;
+  }
+
+  @media (min-width: 768px) {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  @media (min-width: 1280px) {
+    padding-left: 20px;
+    padding-right: 20px;
+    max-width: #{$xl-max-width};
+  }
+}
+
+
+
+

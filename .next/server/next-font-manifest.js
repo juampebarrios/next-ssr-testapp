@@ -1,0 +1,1 @@
+self.__NEXT_FONT_MANIFEST="{\"pages\":{},\"app\":{\"/Users/juampebarrios/Documents/GitHub/next-ssr-testapp/app/layout\":[\"static/media/b89f66ecdb077e7f-s.p.woff2\"]},\"appUsingSizeAdjust\":true,\"pagesUsingSizeAdjust\":false}"

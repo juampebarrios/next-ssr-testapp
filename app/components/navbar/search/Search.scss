@@ -1,0 +1,11 @@
+.search {
+  display: flex;
+  flex-direction: row;
+  gap: 5px;
+  background-color: burlywood;
+
+  .item {
+    background-color: darkmagenta;
+    color: white;
+  }
+}
